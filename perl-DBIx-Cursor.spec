@@ -3,8 +3,8 @@
 %bcond_without	tests	# do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	DBIx
-%define	pnam	Cursor
+%define		pdir	DBIx
+%define		pnam	Cursor
 Summary:	DBIx::Cursor - Perl extension for easy DBI-access to a single table
 Summary(pl):	DBIx::Cursor - rozszerzenie do ³atwego dostêpu DBI do pojedynczych tabel
 Name:		perl-DBIx-Cursor
