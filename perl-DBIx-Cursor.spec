@@ -34,7 +34,7 @@ ka¿dym sterownikiem DBD.
 
 %build
 %{__perl} Makefile.PL \
-	INSTALLDIRS=vendor 
+	INSTALLDIRS=vendor
 %{__make}
 
 %install
