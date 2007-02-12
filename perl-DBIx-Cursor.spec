@@ -6,7 +6,7 @@
 %define		pdir	DBIx
 %define		pnam	Cursor
 Summary:	DBIx::Cursor - Perl extension for easy DBI-access to a single table
-Summary(pl):	DBIx::Cursor - rozszerzenie do ³atwego dostêpu DBI do pojedynczych tabel
+Summary(pl.UTF-8):   DBIx::Cursor - rozszerzenie do Å‚atwego dostÄ™pu DBI do pojedynczych tabel
 Name:		perl-DBIx-Cursor
 Version:	0.14
 Release:	3
@@ -27,12 +27,12 @@ table easier than creating SQL-statements. It does not use any
 specific features of any database, so it should work with every
 DBD-driver.
 
-%description -l pl
+%description -l pl.UTF-8
 Klasa DBIx::Cursor reprezentuje kursor dla pojedynczej tabeli bazy
-danych. Mo¿na wykonywaæ operacje select, update, insert, delete na
-elementach w tabeli ³atwiej od tworzenia wyra¿eñ SQL. Modu³ nie u¿ywa
-¿adnych cech specyficznych dla danej bazy, wiêc powinien dzia³aæ z
-ka¿dym sterownikiem DBD.
+danych. MoÅ¼na wykonywaÄ‡ operacje select, update, insert, delete na
+elementach w tabeli Å‚atwiej od tworzenia wyraÅ¼eÅ„ SQL. ModuÅ‚ nie uÅ¼ywa
+Å¼adnych cech specyficznych dla danej bazy, wiÄ™c powinien dziaÅ‚aÄ‡ z
+kaÅ¼dym sterownikiem DBD.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
