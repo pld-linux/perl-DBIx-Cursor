@@ -6,7 +6,7 @@
 %define		pdir	DBIx
 %define		pnam	Cursor
 Summary:	DBIx::Cursor - Perl extension for easy DBI-access to a single table
-Summary(pl.UTF-8):   DBIx::Cursor - rozszerzenie do łatwego dostępu DBI do pojedynczych tabel
+Summary(pl.UTF-8):	DBIx::Cursor - rozszerzenie do łatwego dostępu DBI do pojedynczych tabel
 Name:		perl-DBIx-Cursor
 Version:	0.14
 Release:	3
