@@ -8,7 +8,7 @@ Summary:	DBIx::Cursor - Perl extension for easy DBI-access to a single table
 Summary(pl.UTF-8):	DBIx::Cursor - rozszerzenie do łatwego dostępu DBI do pojedynczych tabel
 Name:		perl-DBIx-Cursor
 Version:	0.14
-Release:	4
+Release:	5
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
